@@ -1,0 +1,7 @@
+D:\C# programming\Lessons\ConsoleApp6\HW_13\bin\Debug\HW_13.exe.config
+D:\C# programming\Lessons\ConsoleApp6\HW_13\bin\Debug\HW_13.exe
+D:\C# programming\Lessons\ConsoleApp6\HW_13\bin\Debug\HW_13.pdb
+D:\C# programming\Lessons\ConsoleApp6\HW_13\obj\Debug\HW_13.csproj.AssemblyReference.cache
+D:\C# programming\Lessons\ConsoleApp6\HW_13\obj\Debug\HW_13.csproj.CoreCompileInputs.cache
+D:\C# programming\Lessons\ConsoleApp6\HW_13\obj\Debug\HW_13.exe
+D:\C# programming\Lessons\ConsoleApp6\HW_13\obj\Debug\HW_13.pdb

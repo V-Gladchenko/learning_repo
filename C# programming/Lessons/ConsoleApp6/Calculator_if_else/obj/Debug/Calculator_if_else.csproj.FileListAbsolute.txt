@@ -1,0 +1,6 @@
+D:\C# programming\Lessons\ConsoleApp6\Calculator_if_else\bin\Debug\Calculator_if_else.exe.config
+D:\C# programming\Lessons\ConsoleApp6\Calculator_if_else\bin\Debug\Calculator_if_else.exe
+D:\C# programming\Lessons\ConsoleApp6\Calculator_if_else\bin\Debug\Calculator_if_else.pdb
+D:\C# programming\Lessons\ConsoleApp6\Calculator_if_else\obj\Debug\Calculator_if_else.csproj.CoreCompileInputs.cache
+D:\C# programming\Lessons\ConsoleApp6\Calculator_if_else\obj\Debug\Calculator_if_else.exe
+D:\C# programming\Lessons\ConsoleApp6\Calculator_if_else\obj\Debug\Calculator_if_else.pdb

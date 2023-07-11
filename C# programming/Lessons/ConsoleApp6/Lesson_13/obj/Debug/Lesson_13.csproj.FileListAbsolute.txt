@@ -1,0 +1,6 @@
+D:\C# programming\Lessons\ConsoleApp6\Lesson_13\bin\Debug\Lesson_13.exe.config
+D:\C# programming\Lessons\ConsoleApp6\Lesson_13\bin\Debug\Lesson_13.exe
+D:\C# programming\Lessons\ConsoleApp6\Lesson_13\bin\Debug\Lesson_13.pdb
+D:\C# programming\Lessons\ConsoleApp6\Lesson_13\obj\Debug\Lesson_13.csproj.CoreCompileInputs.cache
+D:\C# programming\Lessons\ConsoleApp6\Lesson_13\obj\Debug\Lesson_13.exe
+D:\C# programming\Lessons\ConsoleApp6\Lesson_13\obj\Debug\Lesson_13.pdb

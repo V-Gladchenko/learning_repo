@@ -1,0 +1,7 @@
+D:\C# programming\Lessons\ConsoleApp5\My Project\bin\Debug\My Project.exe.config
+D:\C# programming\Lessons\ConsoleApp5\My Project\bin\Debug\My Project.exe
+D:\C# programming\Lessons\ConsoleApp5\My Project\bin\Debug\My Project.pdb
+D:\C# programming\Lessons\ConsoleApp5\My Project\obj\Debug\My Project.csproj.AssemblyReference.cache
+D:\C# programming\Lessons\ConsoleApp5\My Project\obj\Debug\My Project.csproj.CoreCompileInputs.cache
+D:\C# programming\Lessons\ConsoleApp5\My Project\obj\Debug\My Project.exe
+D:\C# programming\Lessons\ConsoleApp5\My Project\obj\Debug\My Project.pdb
